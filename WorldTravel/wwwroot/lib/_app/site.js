@@ -1,0 +1,1 @@
+var $sidebar=$("#sidebar"),$wrapper=$("#wrapper"),$icon=$("#menuToggler i.fa");$("#menuToggler").on("click",function(){$sidebar.toggleClass("hide-sidebar"),$wrapper.toggleClass("hide-sidebar"),$sidebar.hasClass("hide-sidebar")?($icon.removeClass("fa-angle-left"),$icon.addClass("fa-angle-right")):($icon.removeClass("fa-angle-right"),$icon.addClass("fa-angle-left"))});

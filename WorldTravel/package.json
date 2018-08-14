@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "WorldTravel",
+  "private": true,
+  "devDependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~3.3.1",
+    "bootstrap": "~3.3.5",
+    "jquery-validation": "~1.17.0",
+    "jquery-validation-unobtrusive": "~3.2.9",
+    "font-awesome": "~4.7.0",
+    "gulp": "~3.9.1",
+    "gulp-uglify": "~3.0.0",
+    "gulp-minify": "~2.1.0",
+    "gulp-ng-annotate": "~2.1.0"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~3.3.1",
+    "angular": "1.6.10",
+    "angular-route": "1.6.10"
+  }
+}

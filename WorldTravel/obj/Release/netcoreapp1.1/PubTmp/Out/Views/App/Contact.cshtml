@@ -1,0 +1,54 @@
+﻿@model WorldTravel.ViewModels.ContactViewModel
+
+@{
+
+    ViewBag.Title = "Contact Page";
+}
+
+@section scripts  {
+
+
+    <script src="~/libs/jquery.validate.min.js"></script>
+    <script src="~/libs/jquery.validate.unobtrusive.min.js"></script>
+}
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <h2>Contact Us</h2>
+
+            <form method="post">
+                <span asp-validation-summary="ModelOnly"></span>
+                @if (ViewBag.UserMessage != null)
+        {
+
+
+            <div>@ViewBag.UserMessage</div>
+
+}
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" type="text" class="form-control"/>
+                    <div>
+                        <span asp-validation-for="Name" class="text-muted"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" type="email" class="form-control"/>
+                    <div>
+                        <span asp-validation-for="Email" class="text-muted"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Message"></label>
+                    <textarea rows="4" asp-for="Message" class="form-control"></textarea>
+                    <div>
+                        <span asp-validation-for="Message" class="text-muted"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <a asp-controller="App" asp-action="Index" class="btn btn-default">Cancel</a>
+                    <input type="submit" value="Send Message" class="btn btn-success"/>
+                </div>
+            </form>
+        </div>
+    </div>

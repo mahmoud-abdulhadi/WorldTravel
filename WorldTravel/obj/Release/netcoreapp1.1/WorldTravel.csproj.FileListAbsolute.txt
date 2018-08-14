@@ -1,0 +1,12 @@
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\package.json
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\WorldTravel.deps.json
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\WorldTravel.runtimeconfig.json
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\WorldTravel.runtimeconfig.dev.json
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\WorldTravel.dll
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\bin\Release\netcoreapp1.1\WorldTravel.pdb
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.csprojResolveAssemblyReference.cache
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.csproj.CoreCompileInputs.cache
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.AssemblyInfoInputs.cache
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.AssemblyInfo.cs
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.dll
+C:\Users\Techno Home\source\repos\WorldTravel\WorldTravel\obj\Release\netcoreapp1.1\WorldTravel.pdb
